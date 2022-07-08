@@ -1,0 +1,31 @@
+html{
+
+    padding-top: 70;
+    padding-left: 110px;
+    
+}
+a{
+    font-family: cursive;
+padding: 40px;
+font-size:250%;
+font-weight: bolder;
+text-decoration: none;
+color: white;
+}
+
+img{
+vertical-align: middle;
+
+}
+div{
+display: inline;
+
+}
+div a {
+    padding-left: 40px ;
+    font-size: 140%;
+}
+.imagebackground{
+    background-color: aliceblue;
+    padding-inline: 100px;
+}
